@@ -57,7 +57,7 @@ TOTAL 8 ASCII ART H
 
 
 <p align="center">
-  <img src="IMG_20260426_122301.jpg.jpg" width="300"/>
+  <img src="IMG_20260426_122301.jpg" width="300"/>
 </p>
 
 
