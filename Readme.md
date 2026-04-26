@@ -136,4 +136,25 @@ termux-pro/
 </div>
 
 
+<div align="center">
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="Dashboard.jpg" width="220"/><br/><sub><b>Dashboard</b></sub></td>
+    <td align="center"><img src="Colour customisation.jpg" width="220"/><br/><sub><b>Color Customization</b></sub></td>
+    <td align="center"><img src="Elements colours.jpg" width="220"/><br/><sub><b>Element Colors</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="ASCII art setting.jpg" width="220"/><br/><sub><b>ASCII Art Settings</b></sub></td>
+    <td align="center"><img src="Components test.jpg" width="220"/><br/><sub><b>Components Test</b></sub></td>
+    <td align="center"><img src="helpme.jpg" width="220"/><br/><sub><b>Help Menu</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="IMG_20260426_122301.jpg" width="220"/><br/><sub><b>Main View</b></sub></td>
+  </tr>
+</table>
+
+</div>
 
