@@ -530,7 +530,7 @@ ZSHRC_EOF
     echo ""
     echo -e "${CYAN}DEVELOPER:${NC}"
     echo "  • t.me@cxqok"
-    echo "  • github @cxqok"
+    echo "  • github @cxqok-x"
     echo ""
 }
 
