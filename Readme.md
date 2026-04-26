@@ -66,7 +66,7 @@ TOTAL 8 ASCII ART H
 
 
 
-*IF TERMINAL STUCK PRESS- Ctrl+x 
+*IF TERMINAL STUCK PRESS- Ctrl+c 
 
 *** FOR UNINSTALL TERMUX-PRO ***
  type>    uninstall-pro
