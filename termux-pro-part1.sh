@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # TERMUX PRO - 
 # This script is free and open source
-# GitHub: @qoqm
+# GitHub: @cxqok-x
 
 CONFIG_DIR="$HOME/.termux-pro"
 CONFIG_FILE="$CONFIG_DIR/config"
@@ -89,6 +89,6 @@ COLOR_ARROW="cyan"
 EOF
 
     echo "TERMUX_PRO_PART=2" > "$CONFIG_DIR/.install_state"
-    curl -s -o "$CONFIG_DIR/termux-pro-part2.sh" "https://raw.githubusercontent.com/qoqm/termux-pro/main/termux-pro-part2.sh"
+    curl -s -o "$CONFIG_DIR/termux-pro-part2.sh" "https://raw.githubusercontent.com/cxqok-x/termux-pro/main/termux-pro-part2.sh"
     bash "$CONFIG_DIR/termux-pro-part2.sh"
 }
