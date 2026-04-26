@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # TERMUX PRO - 
-# GitHub: @qoqm
+# GitHub: @cxqok-x
 
 CONFIG_DIR="$HOME/.termux-pro"
 ASCII_DIR="$CONFIG_DIR/ascii"
@@ -137,5 +137,5 @@ cat > "$ASCII_DIR/art8.txt" << 'EOF'
 EOF
 
 echo "TERMUX_PRO_PART=3" > "$CONFIG_DIR/.install_state"
-curl -s -o "$CONFIG_DIR/termux-pro-part3.sh" "https://raw.githubusercontent.com/qoqm/termux-pro/main/termux-pro-part3.sh"
+curl -s -o "$CONFIG_DIR/termux-pro-part3.sh" "https://raw.githubusercontent.com/cxqok-x/termux-pro/main/termux-pro-part3.sh"
 bash "$CONFIG_DIR/termux-pro-part3.sh"
