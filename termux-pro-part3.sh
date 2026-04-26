@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # TERMUX PRO - 
-# GitHub: @qoqm
+# GitHub: @cxqok-x
 
 CONFIG_DIR="$HOME/.termux-pro"
 CONFIG_FILE="$CONFIG_DIR/config"
@@ -336,7 +336,7 @@ echo "  4. Type karo:  zsh"
 echo ""
 echo -e "${CYAN}DEVELOPER:${NC}"
 echo "  • t.me@cxqok"
-echo "  • github @qoqm"
+echo "  • github @qoqm @cxqok-x"
 echo ""
 }
 
