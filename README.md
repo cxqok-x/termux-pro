@@ -2,9 +2,15 @@
 
 customize your termux and give it a new look
 
-HOW TO UNINSTALL TERMUX-PRO?
-  just type 
-  uninstall-pro 
-  and then enter and hit exit or restart the termux.
-  your termux become normal.
-  
+
+One line command -
+ just copy paste this link in your termux app
+ pkg update -y && pkg install git -y && git clone https://github.com/cxqok-x/termux-pro.git && cd termux-pro && chmod +x termux-pro.sh && bash termux-pro.sh
+ Termux pro will automatically install.
+
+
+ 
+
+
+
+ 
